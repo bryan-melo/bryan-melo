@@ -18,4 +18,9 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 
 <hr>
 
+## Examples of Work
+(Coming soon)
+
+<hr>
+
 If you wish to get in contact with me for any possible opportunities, <a href="https://www.linkedin.com/in/bryan-melo/">LinkedIn</a> is a great way to get in touch!
