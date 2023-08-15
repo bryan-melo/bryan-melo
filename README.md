@@ -14,9 +14,6 @@ If you wish to get in contact with me for any possible opportunities, <a href="h
 Skills: JAVA / PHP / C++ / MySQL / JAVASCRIPT / CSS / HTML
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-melo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **bryan-melo/bryan-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
