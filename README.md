@@ -1,9 +1,9 @@
 ![](https://github.com/bryan-melo/bryan-melo/blob/main/web%20banner.png)
 
-### Hi there 👋, my name is Bryan :lotus_position_man:
+## Hi there 👋, my name is Bryan :lotus_position_man:
 I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
 
-## Skills and Experience
+### Skills and Experience
 [![My Skills](https://skills.thijs.gg/icons?i=java,php,cpp,mysql,html,css,js&theme=light)](https://skills.thijs.gg)
 
 
