@@ -20,7 +20,7 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 <hr>
 
 ## Examples of Work
-![Fashion Threads](https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif) [Write It](https://github.com/bryan-melo/bryan-melo/blob/main/Write-It.gif)
+![Fashion Threads](https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif)![Write It](https://github.com/bryan-melo/bryan-melo/blob/main/Write-It.gif)
 
 
 <hr>
