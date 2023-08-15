@@ -4,7 +4,7 @@
 I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
 
 ## Skills and Experience
-[![My Skills](https://skills.thijs.gg/icons?i=java,php,cpp,mysql,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,php,cpp,mysql,&theme=dark)](https://skills.thijs.gg)
 
 
 Regarding my technical skills, I'm proficient in Java and knowledgeable in PHP, C++, and MySQL. Additionally, I've undertaken frontend projects utilizing HTML, CSS, and JavaScript using frameworks such as Node.js, Bootstrap, and SASS.
