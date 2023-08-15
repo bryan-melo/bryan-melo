@@ -1,10 +1,10 @@
 ![](https://github.com/bryan-melo/bryan-melo/blob/main/web%20banner.png)
 
 ### Hi there 👋, my name is Bryan :lotus_position_man:
-I'm a Senior at <a href="https://www.sjsu.edu/">San Jose State University</a>. I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
+I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
 
 ## Skills and Experience
-* :blond_haired_man:	
+* :java:	
 
 Regarding my technical skills, I'm proficient in Java and knowledgeable in PHP, C++, and MySQL. Additionally, I've undertaken frontend projects utilizing HTML, CSS, and JavaScript using frameworks such as Node.js, Bootstrap, and SASS.
 
