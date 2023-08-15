@@ -20,7 +20,7 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 <hr>
 
 ## Examples of Work
-<img src="[URL_of_the_image](https://github.com/bryan-melo/bryan-melo/blob/main/giphy.gif)">
+<img src="https://github.com/bryan-melo/bryan-melo/blob/main/giphy.gif)">
 
 <hr>
 
