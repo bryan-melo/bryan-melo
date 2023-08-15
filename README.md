@@ -3,7 +3,7 @@
 ## Hi there 👋, my name is Bryan :lotus_position_man:
 I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
 
-
+<hr>
 
 ## Skills and Experience
 [![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)&ensp;[![My Skills](https://skills.thijs.gg/icons?i=php,cpp&theme=dark)](https://skills.thijs.gg)&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=light)](https://skills.thijs.gg)&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=light)](https://skills.thijs.gg)
@@ -17,7 +17,7 @@ My journey with Java has been enriching. I've dedicated significant time to mast
 
 Currently, I'm working on a CRUD application with the goal of deepening my knowledge of the Spring Framework and JUnit.
 
-
+<hr>
 
 ## Examples of Work
 <img src="https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif" width="400" height="250">
