@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hello! I'm Bryan, a Senior at San Jose State University. I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
+<h1>Hello! I'm Bryan, a Senior at San Jose State University.</h1> 
+I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
 
 Regarding my technical skills, I'm proficient in Java and knowledgeable in PHP, C++, and MySQL. Additionally, I've undertaken frontend projects utilizing HTML, CSS, and JavaScript using frameworks such as Node.js, Bootstrap, and SASS.
 
