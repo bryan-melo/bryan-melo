@@ -20,8 +20,12 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 <hr>
 
 ## Examples of Work
-<img src="https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif" width="400" height="250">
-<img src="https://github.com/bryan-melo/bryan-melo/blob/main/Write-It.gif" width="400" height="250">
+<div style="display: inline-block;">
+    <img src="https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif" width="400" height="250">
+</div>
+<div style="display: inline-block;">
+    <img src="https://github.com/bryan-melo/bryan-melo/blob/main/Write-It.gif" width="400" height="250">
+</div>
 
 <hr>
 
