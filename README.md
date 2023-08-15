@@ -13,6 +13,7 @@ Regarding my technical skills, I'm proficient in Java and knowledgeable in PHP, 
 <br><br>
 My journey with Java has been enriching. I've dedicated significant time to mastering its fundamentals and exploring its diverse frameworks and libraries, such as JavaFX, JUnit, and Spring.
 <br>
+
 Currently, I'm working on a CRUD application with the goal of deepening my knowledge of the Spring Framework and JUnit.
 
 <hr>
