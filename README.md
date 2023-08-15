@@ -23,10 +23,7 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 | ![Fashion Threads](https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif) | ![Write It](https://github.com/bryan-melo/bryan-melo/blob/main/Write-It.gif) |
 |:---:|---:|
 
-
-
-
-
 <hr>
 <br><br>
-#### If you wish to get in contact with me for any possible opportunities, <a href="https://www.linkedin.com/in/bryan-melo/">LinkedIn</a> is a great way to get in touch!
+
+## If you wish to get in contact with me for any possible opportunities, <a href="https://www.linkedin.com/in/bryan-melo/">LinkedIn</a> is a great way to get in touch!
