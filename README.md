@@ -1,6 +1,6 @@
 ![](https://github.com/bryan-melo/bryan-melo/blob/main/web%20banner.png)
 
-#Bryan :lotus_position_man:
+# Bryan :lotus_position_man:
 I am passionate about technology and building projects from scratch. My focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
 
 ## Skills and Experience
