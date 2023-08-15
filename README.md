@@ -20,7 +20,7 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 <hr>
 
 ## Examples of Work
-<img src="https://github.com/bryan-melo/bryan-melo/blob/main/giphy.gif)">
+<img src="https://github.com/bryan-melo/bryan-melo/blob/main/giphy.gif">
 
 <hr>
 
