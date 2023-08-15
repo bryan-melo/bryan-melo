@@ -24,7 +24,6 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 |:---:|---:|
 
 <hr>
-<br>
 
-### Thank you for visiting my GitHub profile! If you're interested in discussing potential opportunities or collaborations, please feel free to reach out to me on <a href="https://www.linkedin.com/in/bryan-melo/">LinkedIn</a>!
+#### Thank you for visiting my GitHub profile! If you're interested in discussing potential opportunities or collaborations, please feel free to reach out to me on <a href="https://www.linkedin.com/in/bryan-melo/">LinkedIn</a>!
 
