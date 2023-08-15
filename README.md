@@ -20,7 +20,7 @@ Currently, I'm working on a CRUD application with the goal of deepening my knowl
 <hr>
 
 ## Examples of Work
-<img src="https://giphy.com/gifs/arielle-m-coming-soon-26BRLGB7eWATEI1Ik">
+<iframe src="https://giphy.com/embed/mPeSM07tl5NE4mIVht" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mPeSM07tl5NE4mIVht">via GIPHY</a></p>
 
 <hr>
 
