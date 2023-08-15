@@ -6,7 +6,7 @@ I am passionate about technology and building projects from scratch. My focus is
 <hr>
 
 ## Skills and Experience
-[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)&ensp;[![My Skills](https://skills.thijs.gg/icons?i=php,cpp&theme=dark)](https://skills.thijs.gg)&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=light)](https://skills.thijs.gg)&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java&theme=light)](https://skills.thijs.gg)&emsp;[![My Skills](https://skills.thijs.gg/icons?i=php,cpp&theme=dark)](https://skills.thijs.gg)&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=mysql&theme=light)](https://skills.thijs.gg)&emsp;&emsp;[![My Skills](https://skills.thijs.gg/icons?i=html,css,js&theme=light)](https://skills.thijs.gg)
 
 <br>
 
