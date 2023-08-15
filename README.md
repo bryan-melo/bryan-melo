@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-<h1>Hello</h1>
+Hello! I'm Bryan, a Senior at San Jose State University. I have a passion for understanding the intricacies of technology and crafting projects from scratch. At the moment, my focus is on backend development, and I'm actively seeking internship opportunities to enhance my practical experience.
+
+In terms of technical skills, I'm proficient in Java, PHP, C++, and MySQL. Additionally, I've undertaken frontend projects where I utilized HTML, CSS, and JavaScript.
+
+My journey with Java has been particularly rewarding. I've dedicated significant time to mastering its fundamentals and exploring its diverse frameworks and libraries, such as JavaFX, JUnit, and Spring.
+
+Currently, I'm working on a CRUD application, with the goal of deepening my knowledge of the Spring Framework and JUnit.
+
+If you wish to get in contact with me for any possible opportunities, <a href="https://www.linkedin.com/in/bryan-melo/">LinkedIn</a> is a great way to get in touch!
+
 
 
 <!--
