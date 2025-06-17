@@ -4,14 +4,14 @@
 
 ---
 
-### 🔍 About Me
+### 💻 About Me
 
-- 🎓 Recent B.S. Computer Science graduate from [San Jose State University](https://www.sjsu.edu/cs/).
-- 🔬 Specialized in **Quality Assurance**, **Test Automation**, and **Backend Development**.
-- 💻 Completed structured training in QA Testing Fundamentals, Test Automation (Python), API Testing, and Agile Testing through LinkedIn Learning and personal projects.
-- 🐍 Experienced with **Python (Pytest, unittest, Selenium, Postman, FastAPI, Flask)** for test automation and backend development.
-- ⚙️ Skilled in **CI/CD (GitHub Actions, Docker)**, version control, and integration testing.
-- 🔧 Former U.S. Marine Corps **Quality Control Lead** — bringing leadership, discipline, and real-world problem solving to QA engineering.
+- Recent B.S. Computer Science graduate from [San Jose State University](https://www.sjsu.edu/cs/).
+- Specialized in **Quality Assurance**, **Test Automation**, and **Backend Development**.
+- Completed structured training in QA Testing Fundamentals, Test Automation (Python), API Testing, and Agile Testing through LinkedIn Learning and personal projects.
+- Experienced with **Python (Pytest, unittest, Selenium, Postman, FastAPI, Flask)** for test automation and backend development.
+- Skilled in **CI/CD (GitHub Actions, Docker)**, version control, and integration testing.
+- Former U.S. Marine Corps **Quality Control Lead** — bringing leadership, discipline, and real-world problem solving to QA engineering.
 
 ---
 
