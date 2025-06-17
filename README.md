@@ -70,9 +70,3 @@ Actively seeking roles in **QA Automation, SDET, or Software QA Engineering**.
 
 - LinkedIn: [linkedin.com/in/bryan-melo](https://linkedin.com/in/bryan-melo)
 - Email: melobryan005@gmail.com
-
----
-
-## Examples of my Work
-| ![Fashion Threads](https://github.com/bryan-melo/bryan-melo/blob/main/fashionthreads.gif) | ![Write It](https://github.com/bryan-melo/bryan-melo/blob/main/Write-It.gif) |
-|:---:|---:|
