@@ -3,7 +3,7 @@
 **Software QA Engineer | SDET | Test Automation | U.S. Marine Corps Veteran**
 
 ---
-
+ 
 ### 💻 About Me
 
 - Recent B.S. Computer Science graduate from [San Jose State University](https://www.sjsu.edu/cs/).
