@@ -2,7 +2,7 @@
 
 **Software QA Engineer | SDET | Test Automation | U.S. Marine Corps Veteran**
 
----
+--- 
  
 ### 💻 About Me
 
