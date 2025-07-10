@@ -37,7 +37,7 @@ Actively seeking roles in **QA Automation, SDET, or Software QA Engineering**.
   - Logged and tracked defects using GitHub Issues and markdown-based reports.
   - Built backend logic with Flask to support full-stack integration and facilitate system-level QA validation.
 
----
+--- 
 
 ### ⚙️ Technical Skills
 
