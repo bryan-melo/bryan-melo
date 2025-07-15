@@ -23,20 +23,20 @@ Actively seeking roles in **QA Automation, SDET, or Software QA Engineering**.
 
 ### 📂 Featured Projects
 
-- **AI-Powered Language Tutor — Quality Assurance Automation & Fullstack Developer**  
-  [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-tests)  
-  - Developed and executed API validation tests using Postman and Pytest to verify application endpoints.
-  - Automated UI flows (login, lesson tracking) with Selenium to validate DOM behavior, form validation, and user interactions.
-  - Integrated automated tests into GitHub Actions for continuous pre-deployment verification.
-  - Built fullstack application: frontend with Next.js, backend with Python (FastAPI), and PostgreSQL for database management.
+- **AI-POWERED LANGUAGE TUTOR — BACKEND DEVELOPER & QA AUTOMATION**  
+  [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-backend)  
+  • Developed and executed unit and API tests using Pytest and httpx to validate application endpoints and core logic.  
+  • Automated pre-deployment checks with comprehensive test reporting, accelerating feedback loops and improving release confidence.  
+  • Integrated test automation into GitHub Actions to enforce quality gates before deployments.  
+  • Built a robust backend using Python (FastAPI) and PostgreSQL, supporting scalable features.
 
-- **Carbon Footprint Tracker & Calculator — Quality Assurance & Backend Developer**  
-  [GitHub Repo](https://github.com/bryan-melo/Carbon-Footprint-Calculator)  
-  - Applied multiple testing techniques (functional, regression, and integration) to validate application logic, user inputs, and backend data processing.
-  - Designed and executed manual functional test plans covering UI workflows, data integrity, and edge case scenarios.
-  - Logged and tracked defects using GitHub Issues and markdown-based reports.
-  - Built backend logic with Flask to support full-stack integration and facilitate system-level QA validation.
-
+- **AI-POWERED LANGUAGE TUTOR — FRONTEND DEVELOPER & QA AUTOMATION**  
+  [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-frontend)  
+  • Developed unit and component tests with Jest and React Testing Library to ensure UI logic and rendering correctness.  
+  • Automated end-to-end scenarios with Selenium, validating user flows such as login and lesson tracking.  
+  • Integrated tests into CI workflows using GitHub Actions to enforce consistent build quality.  
+  • Built an interactive frontend using Next.js, integrating seamlessly with the FastAPI backend for real-time CRUD operations.
+  
 --- 
 
 ### ⚙️ Technical Skills
