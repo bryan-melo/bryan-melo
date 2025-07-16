@@ -60,7 +60,6 @@ Actively seeking roles in **QA Automation, SDET, or Software QA Engineering**.
 
 ### 📊 GitHub Stats
 
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryan-melo&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-melo&layout=compact)
 ![Visitors](https://komarev.com/ghpvc/?username=bryan-melo&color=blue)
 
