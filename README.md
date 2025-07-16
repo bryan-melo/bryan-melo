@@ -28,9 +28,9 @@ Actively seeking entry-level roles in **QA Automation, SDET, or Software QA Engi
   [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-backend)  
   • Developed and executed automated unit and API tests using Pytest, designing reusable and modular test code to improve maintainability and ensure reliable endpoint validation.  
   • Integrated automated pre-deployment checks into GitHub Actions with comprehensive test reporting, accelerating feedback loops and improving release confidence.  
-  • Built a robust backend using Python (FastAPI) and PostgreSQL, supporting scalable features.  
-  • Wrote clean, maintainable, and scalable test code following best practices to ensure long-term reliability.
-
+  • Wrote clean, maintainable, and scalable test code following best practices to ensure long-term reliability.  
+  • Built a robust backend using Python (FastAPI) and PostgreSQL, supporting scalable features.
+ 
 - **AI-POWERED LANGUAGE TUTOR — FRONTEND DEVELOPER & QA AUTOMATION**  
   [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-frontend)  
   • Developed unit and component tests with Jest and React Testing Library to ensure UI logic and rendering correctness.  
