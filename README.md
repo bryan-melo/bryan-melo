@@ -25,27 +25,31 @@ Actively seeking entry-level roles as an **Test Automation Engineer**,  **SDET**
 
 #### 🧠 AI-Powered Language Tutor — Backend Developer & Test Automation  
 [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-backend)  
-- Developed and executed automated unit and API tests using **Pytest**, with modular, reusable test design.
-- Integrated automated pre-deployment checks into **GitHub Actions**, enabling fast feedback and reliable releases.
-- Wrote scalable, maintainable test code following industry best practices.
-- Built a robust backend with **FastAPI** and **PostgreSQL**, supporting secure and scalable operations.
+- Designed and implemented a scalable and reusable automated test framework using Pytest to validate backend API
+endpoints.
+- Built and integrated pre-deployment test pipelines with GitHub Actions to ensure consistent test coverage and accelerate
+feedback loops.
+- Developed clean, modular Python test logic with fixtures, mocks, and parameterization to improve maintainability.
+- Built and maintained the backend using FastAPI and PostgreSQL, supporting high-performance API operations and system
+scalability.
 
 #### 🧠 AI-Powered Language Tutor — Frontend Developer & Test Automation  
 [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-frontend)  
-- Developed unit and component tests using **Jest** and **React Testing Library**.
-- Automated key end-to-end user flows (e.g., login, lesson tracking) using **Selenium**.
-- Integrated tests into **CI pipelines** via GitHub Actions for continuous quality checks.
-- Built an interactive UI using **Next.js**, fully integrated with the FastAPI backend.
+- Developed unit and component tests with Jest and React Testing Library to ensure UI logic and rendering correctness.
+- Automated key end-to-end test flows with Selenium, covering login, registration, and lesson progression scenarios.
+- Integrated frontend test execution into CI pipelines using GitHub Actions to enforce regression checks and build stability.
+- Built a responsive, real-time frontend with Next.js, tightly integrated with FastAPI backend for seamless user interaction.
 
 ---
 
 ### ⚙️ Technical Skills
 
-**Languages:** Python, JavaScript, Java, SQL  
-**Testing Tools:** Pytest, unittest, Selenium, Postman, JIRA, Test Case Design, Bug Reporting  
-**Automation & Dev Tools:** Git, GitHub Actions, Docker, CI/CD Pipelines  
+**Languages:** Python, JavaScript, Java, SQL
+**Automation Tools:** Pytest, Selenium, Playwright, Postman, unittest
+**DevOps & CI/CD:** Git, GitHub Actions, Docker, CI/CD Pipelines  
+**Testing**: Unit Testing, Integration Testing, Regression Testing, Functional Testing, RESTful API Testing, Test Case Design
+**Frameworks:** FastAPI, Flask, Next.js, React
 **Databases:** PostgreSQL, MySQL, SQLite  
-**Practices & Methodologies:** Agile, Unit Testing, Manual Testing, RESTful API Testing, Version Control
 
 ---
 
