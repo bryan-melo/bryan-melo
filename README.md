@@ -44,12 +44,12 @@ scalability.
 
 ### ⚙️ Technical Skills
 
-**Languages:** Python, JavaScript, Java, SQL
-**Automation Tools:** Pytest, Selenium, Playwright, Postman, unittest
-**DevOps & CI/CD:** Git, GitHub Actions, Docker, CI/CD Pipelines  
-**Testing**: Unit Testing, Integration Testing, Regression Testing, Functional Testing, RESTful API Testing, Test Case Design
-**Frameworks:** FastAPI, Flask, Next.js, React
-**Databases:** PostgreSQL, MySQL, SQLite  
+**Languages:** Python, JavaScript, Java, SQL  
+**Automation Tools:** Pytest, Selenium, Playwright, Postman, unittest  
+**DevOps & CI/CD:** Git, GitHub Actions, Docker, CI/CD Pipelines   
+**Testing**: Unit Testing, Integration Testing, Regression Testing, Functional Testing, RESTful API Testing, Test Case Design  
+**Frameworks:** FastAPI, Flask, Next.js, React  
+**Databases:** PostgreSQL, MySQL, SQLite    
 
 ---
 
