@@ -1,63 +1,60 @@
 # Hi, I'm Bryan Melo
 
-**Computer Science Student | Aspiring Software QA Engineer & SDET | U.S. Marine Corps Veteran**
+**Computer Science Student | Aspiring Test Automation Engineer, SDET & Software QA Engineer | U.S. Marine Corps Veteran**
 
 ---
 
 ### 💻 About Me
 
-- Computer Science student at [San Jose State University](https://www.sjsu.edu/cs/), graduating December 2025.
-- Focused on **Quality Assurance**, **Test Automation**, and **Backend Development**.
-- Completed structured training in QA Testing Fundamentals, Test Automation (Python), API Testing, and Agile Testing through LinkedIn Learning and personal projects.
+- Computer Science student at [San Jose State University](https://www.sjsu.edu/cs/), graduating **December 2025**.
+- Focused on **Test Automation**, **Software Quality**, and **Backend Development**.
+- Completed structured training in QA Testing Fundamentals, Test Automation (Python), API Testing, and Agile Testing through LinkedIn Learning and hands-on projects.
 - Experienced with **Python (Pytest, unittest, Selenium, Postman, FastAPI)** for test automation and backend development.
-- Skilled in **CI/CD (GitHub Actions, Docker)**, version control, and integration testing.
-- Former U.S. Marine Corps **Quality Control Lead** — bringing leadership, discipline, and real-world problem-solving to QA engineering.
-- Currently pursuing **ISTQB Certified Tester (CTFL)** certification to deepen software testing expertise.
+- Skilled in **CI/CD workflows** with **GitHub Actions**, **Docker**, and **version control**.
+- Former U.S. Marine Corps **Quality Control Lead** with experience in defect tracking, root-cause analysis, and disciplined process improvement.
 
 ---
 
 ### 🔍 Open to Opportunities
 
-Actively seeking entry-level roles in **QA Automation, SDET, or Software QA Engineering**.
+Actively seeking entry-level roles as an **Test Automation Engineer**,  **SDET**, or **Software QA Engineer**, with a focus on test infrastructure, automation strategy, and scalable quality solutions.
 
 ---
 
 ### 📂 Featured Projects
 
-- **AI-POWERED LANGUAGE TUTOR — BACKEND DEVELOPER & QA AUTOMATION**  
-  [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-backend)  
-  • Developed and executed automated unit and API tests using Pytest, designing reusable and modular test code to improve maintainability and ensure reliable endpoint validation.  
-  • Integrated automated pre-deployment checks into GitHub Actions with comprehensive test reporting, accelerating feedback loops and improving release confidence.  
-  • Wrote clean, maintainable, and scalable test code following best practices to ensure long-term reliability.  
-  • Built a robust backend using Python (FastAPI) and PostgreSQL, supporting scalable features.
- 
-- **AI-POWERED LANGUAGE TUTOR — FRONTEND DEVELOPER & QA AUTOMATION**  
-  [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-frontend)  
-  • Developed unit and component tests with Jest and React Testing Library to ensure UI logic and rendering correctness.  
-  • Automated end-to-end scenarios with Selenium, validating user flows such as login and lesson tracking.  
-  • Integrated tests into CI workflows using GitHub Actions to enforce consistent build quality.  
-  • Built an interactive frontend using Next.js, integrating seamlessly with the FastAPI backend for real-time CRUD operations.
+#### 🧠 AI-Powered Language Tutor — Backend Developer & Test Automation  
+[GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-backend)  
+- Developed and executed automated unit and API tests using **Pytest**, with modular, reusable test design.
+- Integrated automated pre-deployment checks into **GitHub Actions**, enabling fast feedback and reliable releases.
+- Wrote scalable, maintainable test code following industry best practices.
+- Built a robust backend with **FastAPI** and **PostgreSQL**, supporting secure and scalable operations.
+
+#### 🧠 AI-Powered Language Tutor — Frontend Developer & Test Automation  
+[GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-frontend)  
+- Developed unit and component tests using **Jest** and **React Testing Library**.
+- Automated key end-to-end user flows (e.g., login, lesson tracking) using **Selenium**.
+- Integrated tests into **CI pipelines** via GitHub Actions for continuous quality checks.
+- Built an interactive UI using **Next.js**, fully integrated with the FastAPI backend.
 
 ---
 
 ### ⚙️ Technical Skills
 
 **Languages:** Python, JavaScript, Java, SQL  
-**Testing Tools:** Pytest, unittest, Postman, Selenium, JIRA, Test Case Design, Bug Reporting  
-**Automation & Dev Tools:** Git, GitHub Actions, Docker, CI/CD Pipelines, VS Code  
+**Testing Tools:** Pytest, unittest, Selenium, Postman, JIRA, Test Case Design, Bug Reporting  
+**Automation & Dev Tools:** Git, GitHub Actions, Docker, CI/CD Pipelines  
 **Databases:** PostgreSQL, MySQL, SQLite  
-**Methodologies:** Agile, Manual Testing, Unit Testing, RESTful API Testing, Version Control
+**Practices & Methodologies:** Agile, Unit Testing, Manual Testing, RESTful API Testing, Version Control
 
 ---
 
 ### 📖 Currently Learning
 
-- Advanced API Testing Techniques
-- Load Testing & Performance Testing
-- CI/CD Pipeline Optimization
+- Load & Performance Testing
 - Advanced Selenium Automation
-
----
+- CI/CD Pipeline Optimization
+- Advanced API Testing Techniques
 
 ### 📊 GitHub Stats
 
