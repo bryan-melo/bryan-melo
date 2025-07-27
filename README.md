@@ -40,7 +40,7 @@ scalability.
 - Integrated frontend test execution into CI pipelines using GitHub Actions to enforce regression checks and build stability.
 - Built a responsive, real-time frontend with Next.js, tightly integrated with FastAPI backend for seamless user interaction.
 
----
+--- 
 
 ### ⚙️ Technical Skills
 
