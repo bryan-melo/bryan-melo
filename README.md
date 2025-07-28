@@ -65,7 +65,7 @@ scalability.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-melo&layout=compact)
 ![Visitors](https://komarev.com/ghpvc/?username=bryan-melo&color=blue)
 
----
+--- 
 
 ### 📫 Contact Me
 
