@@ -54,6 +54,5 @@ Actively seeking entry-level roles as a **Test Automation Engineer**, **SDET**, 
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-melo&layout=compact)
-![Visitors](https://komaver.com/ghpvc/?username=bryan-melo&color=blue)
 
 ---
