@@ -1,25 +1,4 @@
 # Hi, I'm Bryan Melo
-
-**Computer Science Student | Aspiring Test Automation Engineer, SDET & Software QA Engineer | U.S. Marine Corps Veteran**
-
----
-
-### 💻 About Me
-
-- Computer Science student at [San Jose State University](https://www.sjsu.edu/cs/), graduating **December 2025**.
-- Focused on **Test Automation**, **Software Quality**, and **Backend Development**.
-- Completed structured training in QA Testing Fundamentals, Test Automation (Python), API Testing, and Agile Testing through LinkedIn Learning and hands-on projects.
-- Experienced with **Python (Pytest, unittest, Selenium, Postman, FastAPI)** for test automation and backend development.
-- Skilled in **CI/CD workflows** with **GitHub Actions**, **Docker**, and **version control**.
-- Former U.S. Marine Corps **Quality Control Lead** with experience in defect tracking, root-cause analysis, and disciplined process improvement.
-
----
-
-### 🔍 Open to Opportunities
-
-Actively seeking entry-level roles as an **Test Automation Engineer**,  **SDET**, or **Software QA Engineer**, with a focus on test infrastructure, automation strategy, and scalable quality solutions.
-
-# Hi, I'm Bryan Melo
 **Computer Science Graduate | Test Automation Engineer | SDET | Software QA Engineer | U.S. Marine Corps Veteran**
 
 ---
