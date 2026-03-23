@@ -37,20 +37,14 @@ Actively seeking entry-level roles as a **Test Automation Engineer**, **SDET**, 
 ---
 
 ### ⚙️ Technical Skills
-**Languages:** Python, JavaScript, Java, SQL
-**Automation Tools:** Pytest, Playwright, Selenium, Postman, unittest
-**DevOps & CI/CD:** Git, GitHub Actions, Docker, CI/CD Pipelines
-**Testing:** Manual Testing, Functional, Regression, Integration, Exploratory, Smoke & Sanity, API Testing, Test Case Design
-**Frameworks:** FastAPI, Flask, Next.js
-**Databases:** PostgreSQL, MySQL, SQLite
-
+- **Languages:** Python, JavaScript, Java, SQL 
+- **Automation Tools:** Pytest, Playwright, Selenium, Postman, unittest 
+- **DevOps & CI/CD:** Git, GitHub Actions, Docker, CI/CD Pipelines 
+- **Testing:** Manual Testing, Functional, Regression, Integration, Exploratory, Smoke & Sanity, API Testing, Test Case Design 
+- **Frameworks:** FastAPI, Flask, Next.js 
+- **Databases:** PostgreSQL, MySQL, SQLite 
+ 
 ---
-
-### 📖 Currently Learning
-- Load & Performance Testing
-- Advanced Playwright Automation
-- CI/CD Pipeline Optimization
-- Advanced API Testing Techniques
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-melo&layout=compact)
