@@ -1,50 +1,46 @@
 # Hi, I'm Bryan Melo
-**Computer Science Graduate | Manual QA Tester | Software Tester | U.S. Marine Corps Veteran**
+**Computer Science Graduate | Test Automation Engineer | U.S. Marine Corps Veteran**
 
 ---
 
 ### 💻 About Me
 - Computer Science graduate from [San José State University](https://www.sjsu.edu/cs/).
-- Focused on **Manual Testing**, **Software Quality**, and **Defect Detection**.
-- Hands-on experience writing structured test cases, executing test plans, and documenting defects clearly against live deployed applications.
-- Experienced with **Postman, Pytest, Playwright, and GitHub Actions** — with foundational automation experience actively being developed.
+- Focused on **Test Automation**, **Software Quality**, and **CI/CD integration**.
+- Hands-on experience designing scalable automated test suites for both UI and API layers using Playwright, Pytest, and Python Requests.
+- Skilled in **CI/CD workflows** with **GitHub Actions** — enforcing quality gates and catching regressions on every push.
 - Former U.S. Marine Corps **Quality Control Lead** with 2 years of hands-on experience in defect tracking, root-cause analysis, and maintaining high standards under pressure.
 
 ---
 
 ### 🔍 Open to Opportunities
-Actively seeking entry-level roles as a **Manual QA Tester**, **Software Tester**, or **QA Analyst**, with a longer-term focus on growing into Test Automation Engineering.
+Actively seeking entry-level roles as a **Test Automation Engineer** or **Software Engineer in Test**, with a focus on test framework design, CI/CD integration, and scalable automation solutions.
 
 ---
 
 ### 📂 Featured Projects
 
-#### 🧪 AI-Powered Language Tutor — Manual & Exploratory Testing
+#### 🧪 AI-Powered Language Tutor — UI Test Automation
 [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-frontend)
-- Designed and executed 20+ structured test cases against a live deployed application (Vercel), covering signup, login, course browsing, and logout across valid, invalid, and edge case scenarios.
-- Authored a test strategy document covering scope, test coverage rationale, known gaps, and setup instructions — formatted as a team-ready handoff artifact.
-- Performed exploratory testing across all major user flows, identifying edge cases not covered by scripted test cases and documenting findings with clear reproduction steps.
-- Identified and documented defects with clear reproduction steps, expected vs. actual results, and severity classifications — producing bug reports formatted to industry-standard QA expectations.
+- Built a Playwright + Python automated test suite targeting the live production app, covering signup, login, course browsing, and logout across valid, invalid, and edge case scenarios — 20+ structured test cases.
+- Implemented the Page Object Model (POM) design pattern to decouple test logic from UI interaction, producing a maintainable suite structured to real-world QA team standards.
+- Configured GitHub Actions CI/CD to execute the full suite on every push, enforcing quality gates before merges and catching regressions during active development.
+- Authored a test strategy document covering scope, coverage rationale, known gaps, and setup instructions — formatted as a team-ready handoff artifact.
 
-#### 🧪 AI-Powered Language Tutor — API Testing & Validation
+#### 🧪 AI-Powered Language Tutor — API Test Automation
 [GitHub Repo](https://github.com/bryan-melo/ai-language-tutor-backend)
-- Executed comprehensive API testing using Postman against a live FastAPI backend, covering user authentication, account creation, lesson management, and role-based access control.
-- Designed and documented 25+ negative and error-handling test scenarios — invalid inputs, missing fields, and unauthorized access — validating that the API fails safely and predictably.
-- Validated end-to-end data integrity by verifying backend state after API operations, confirming responses matched expected outcomes.
-- Produced a Postman collection as a manual testing documentation artifact, providing full endpoint coverage reviewable by any team member.
+- Designed and executed a Python Requests + Pytest API test framework against a live FastAPI backend, covering authentication, account creation, lesson management, role-based access control, and 25+ negative/error-handling scenarios.
+- Validated end-to-end data integrity by querying the PostgreSQL database directly after API operations to confirm backend state matched API responses.
+- Leveraged FastAPI's auto-generated Swagger documentation to map full endpoint coverage, producing a traceable test coverage matrix.
+- Authored and exported a Postman collection as supplemental documentation alongside the automated suite.
 
 ---
 
 ### ⚙️ Technical Skills
-- **Testing:** Manual Testing, Functional, Regression, Integration, Exploratory, Smoke & Sanity, API Testing, Test Case Design, Bug Reporting
-- **Tools:** Postman, Chrome DevTools, Pytest, Playwright, GitHub Actions, pytest-html
-- **Languages:** Python, SQL, JavaScript, Java
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Dev Practices:** Git, GitHub, Agile/Scrum basics
-
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-melo&layout=compact)
+**Automation:** Pytest, Playwright, Selenium, Python Requests, unittest
+**CI/CD:** GitHub Actions, Git, CI/CD Pipelines
+**Testing:** Manual Testing, Functional, Regression, Integration, Exploratory, Smoke & Sanity, API Testing, Test Case Design
+**Tools:** Postman, pytest-html, Chrome DevTools, Swagger/OpenAPI
+**Languages:** Python, SQL, JavaScript, Java
+**Databases:** PostgreSQL, MySQL, SQLite
 
 ---
